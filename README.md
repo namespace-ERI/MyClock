@@ -51,6 +51,7 @@
 * 点击菜单栏的小图标（闹钟/咖啡杯）即可唤出主界面。
 * **开始/暂停**：点击播放按钮或按下全局快捷键。
 * **设置**：点击界面右上角的齿轮图标，可设置“开机自启”、“快捷键”、“默认时长”及“提示音效”。
+* **注意**：设置了未超过5min的专注不计入总时长
 
 ### 📂 文件结构说明
 
@@ -125,6 +126,7 @@
 * Click the menu bar icon (Timer/Coffee Cup) to open the main window.
 * **Start/Pause**: Click the play button or use the global hotkey.
 * **Settings**: Click the gear icon to configure "Launch at Login", "Global Shortcuts", "Default Durations", and "Sound Effects".
+* **Note**: Focus sessions shorter than 5 minutes are not counted toward the total duration.
 
 ### 📂 File Structure Explained
 
