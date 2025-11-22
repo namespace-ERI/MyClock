@@ -1,4 +1,4 @@
-# MyClock - Minimalist macOS Pomodoro Timer / 极简 macOS 番茄钟
+# MyClock
 
 [English Version Below](#english-version)
 
