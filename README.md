@@ -2,6 +2,8 @@
 
 [English Version Below](#english-version)
 
+<video src="video.mov" controls=""></video>
+
 ---
 
 ⚠️声明：本项目完全由Gemini在 2h 内搭建，包括代码、导出、README 和 logo，初始UI风格和基础功能参考了小红书博主“卡夫卡”，ID为“174973146”
